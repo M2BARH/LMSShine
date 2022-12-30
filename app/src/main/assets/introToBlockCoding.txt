@@ -1,0 +1,24 @@
+
+What is block-based coding or block programming?
+Block-based coding or programming utilizes a drag-and-drop learning environment, where programmers use coding instruction “blocks” to construct animated stories and games. It’s an entry-level activity, where kids can gain a foundation in computational thinking through visuals as opposed to coding that is based in text.
+
+What do you mean by “blocks?”
+When we mention “blocks,” it’s a way to describe the “chunks” or “pieces” of instructions a user is putting together in order to tell their creation what to do. 
+
+For example, Scratch programming is block-based, and is one of the most popular options when it comes to kids coding languages. Blocks in Scratch are defined as:
+
+Motion Blocks: Used to control movement, telling sprites (Scratch images) to move and turn in relation to the sprite itself, other sprites, or a certain position.
+
+For instance, with one single block, creators can tell a sprite to move forward 10 steps, or turn 15 degrees to the right. 
+
+motion blocks
+
+Looks blocks: Used to change a sprite’s appearance, and can make a sprite say or think something, change costumes or backdrops, or even change the size or graphic effects of a sprite. 
+
+For example, creators can tell their sprite to display a text bubble and say “hello!” for a 2-second duration.
+
+Sound blocks: Used to add sounds to a story or game, or edit sound effects like pitch, and even change the volume of different sounds. 
+
+For example, a sound block can be used to start playing a “meow” sound, and then another sound block can be used to stop all sounds. 
+
+Blocks provide a valuable learning experience, with kids quickly realizing that their programs will only do what they tell them to do, and will only run code in the order it was “written.”

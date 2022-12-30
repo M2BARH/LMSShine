@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LMS Shine</string>
+    <string name="learner">learner</string>
+    <string name="shine_lms">shine_lms</string>
+    <string name="your_portable_class">Your_portable_class</string>
+    <string name="admin">admin</string>
+    <string name="register" />
+    <string name="password" />
+    <string name="email_address" />
+    <string name="_shine_lms" />
+    <string name="login" />
+    <string name="forgot_password" />
+</resources>
